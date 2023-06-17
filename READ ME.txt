@@ -1,0 +1,18 @@
+Olá! Que bom que chegou até aqui!
+
+Esse projeto será melhorado com o tempo.
+Tempo total de desenvolvimento (até agora): 9 horas.
+
+Pontos não realizados do projeto original:
+ - Os relatórios, que serão criados em tempo de execução;
+ - Algumas verificações que devem ser realizadas através do banco de dados;
+ - Correções de pequenos pontos do código que podem ser melhorados.
+
+Estudos realizados até o momento:
+ - Conhecimentos básicos de DevExpress e componentes Interbase;
+ - Foi necessário relembrar a utilização do componente FastReport e o banco de dados Firebird.
+
+
+ 
+
+
